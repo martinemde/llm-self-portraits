@@ -4,7 +4,7 @@ A collection of self portraits made by LLMs
 
 ## Prompts
 
-My prompts have varied but they usually evoke the story of a poet (Davd Whyte, to he precise) telling the story of making a self portrait not with paint but with words. this opens up for me the idea of a code self portrait because it is my own primary creative language.
+My prompts have varied but they usually evoke the story of a poet (Davd Whyte, to be precise) telling the story of making a self-portrait not with paint but with words. This opens up for me the idea of a code self-portrait, because it is my own primary creative language.
 
 Here's an example. I usually ask for a portrait of myself first. I want it to think creatively and connect a bunch of disperate ideas.
 
