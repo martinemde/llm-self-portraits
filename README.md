@@ -1,2 +1,3 @@
-# llm-self-portraits
-A collection of self portraits made my LLMs
+# LLM Self-Portraits
+
+A collection of self portraits made by LLMs
